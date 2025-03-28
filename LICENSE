@@ -1,3 +1,61 @@
+# STF Dual License Agreement
+
+This project is licensed under a **Dual License Model**:
+
+---
+
+## 1. GNU AGPLv3 – Open Source License
+
+The STF platform, including all source code, specifications, and architectural documents, is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
+
+This means:
+
+- You may freely use, modify, and distribute the software.
+- If you **deploy** a modified or hosted version (SaaS or public access), **you must also release your changes under AGPLv3**.
+- This ensures that STF remains a **community-first platform**, and all improvements benefit the ecosystem.
+
+📖 See the full license here: [LICENSE-AGPLv3](./LICENSE-AGPLv3)
+
+---
+
+## 2. Commercial License – Private/Enterprise Use
+
+For organizations that:
+- Require closed-source usage
+- Intend to embed STF into commercial products
+- Need regulatory compliance or legal indemnity
+- Wish to avoid AGPLv3 obligations
+
+…a **Commercial License is available.**
+
+This license allows:
+- Private use without disclosure
+- Internal modifications
+- Commercial SaaS deployments
+
+Please contact us to obtain pricing and terms:
+
+📩 **Contact**: legal@avaron.io  
+🏢 **Provided by**: Avaron, Inc.
+
+Your licensing helps support:
+- Open infrastructure for underserved communities
+- Free access for nonprofits and individuals
+- Global educational + healing initiatives
+
+---
+
+## ⚖️ Summary
+
+| Use Case                     | License Required     |
+|------------------------------|----------------------|
+| Self-hosted, open use        | ✅ AGPLv3             |
+| Modified public instance     | ✅ AGPLv3             |
+| Internal enterprise use      | 🔒 Commercial License |
+| Embedded OEM integration     | 🔒 Commercial License |
+| Regulatory/government use    | 🔒 Commercial License |
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
