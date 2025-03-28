@@ -52,7 +52,7 @@ Commercial licenses help fund:
 
 ---
 
-## 📜 Defensive Publication Notice
+## Defensive Publication Notice
 
 This repository and all contained documents, diagrams, and code serve as a **formal Defensive Publication**.
 
@@ -70,7 +70,7 @@ Join us as we build a safer, fairer, more sovereign internet — together.
 
 ---
 
-## ✍️ Attribution
+## Attribution
 
 Created and maintained by **Avaron, Inc.**  
 Primary Author: Chris McWhorter, CTO, Avaron, Inc/CyberNest Holdings, LLC.
