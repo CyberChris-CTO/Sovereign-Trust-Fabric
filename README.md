@@ -1,3 +1,7 @@
+<p align="right">
+<img src="https://ldhcbonevdxtoycfoeds.supabase.co/storage/v1/object/public/docs//avaron-logo.png" width="150" height="150"/>
+</p>
+
 # Sovereign Trust Fabric (STF)
 
 **STF (Sovereign Trust Fabric)** is an open-source infrastructure platform designed to rebuild digital trust from the ground up — combining cryptographic identity, decentralized web infrastructure, fraud-proof payments, and ethical AI moderation.
@@ -75,4 +79,7 @@ Join us as we build a safer, fairer, more sovereign internet — together.
 Created and maintained by **Avaron, Inc.**  
 Primary Author: Chris McWhorter, CTO, Avaron, Inc/CyberNest Holdings, LLC.
 Initial Release: `March 2025`
+<p align="left">
+<img src="https://github.com/user-attachments/assets/bd3c45ab-1a2a-485a-8f8c-d38e6f2b3376" width="150" height="150"/>
+</p>
 
